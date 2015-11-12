@@ -167,7 +167,7 @@ body {
     padding:0;
 }
 
-#btnim360, #btnintelReg, #btnintelInt {
+#btnim360, #btnintelReg, #btnintelInt, #btnUCSC {
     width: 20px;
     height: 20px;
     background-image: url(images/top.png);
